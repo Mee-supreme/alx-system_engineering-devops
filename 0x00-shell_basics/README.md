@@ -1,1 +1,1 @@
-Create a script that creates the directories
+Create a magic file school.mgc
